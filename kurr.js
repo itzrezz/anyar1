@@ -75,8 +75,8 @@ const { getBuffer, getGroupAdmins, getRandom, start, info, success, close } = re
 const client = new WAConnection()
 const { emoji2 } = require('./emoji2')
 const { emoji1 } = require('./emoji1')
-const dtod = "6281220670449@s.whatsapp.net"
-const otod = "6281220670449@s.whatsapp.net"
+const dtod = "628889497632@s.whatsapp.net"
+const otod = "628889497632@s.whatsapp.net"
 // STICKER WM
 //const exect = require('await-exec')
 //const webp = require('webp-converter')
@@ -125,7 +125,7 @@ let family100 = [];
 ky_ttt = []
 tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣"]
 cmhit = []
-fake = "/> Tato KurrXd";
+fake = "/> Tato 𝙍𝙚𝙯𝙯𝙓𝘿";
 autorespon = false
 playmusic = false
 menusimpel = false
@@ -513,7 +513,7 @@ const ftrol = {
                             status: 1,
                             surface : 1,
                             message: `BOT AKTIF SELAMA : ${waktu(runtime)}`, //Kasih namalu
-                            orderTitle: `KurrXdゑ v.3.0`,
+                            orderTitle: `𝙍𝙚𝙯𝙯𝙓𝘿`,
                             thumbnail: ofrply3, //Gambarnye
                             sellerJid: '0@s.whatsapp.net' 
                           }
